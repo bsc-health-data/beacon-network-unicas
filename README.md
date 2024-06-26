@@ -1,14 +1,14 @@
-# ELIXIR Beacon v2 Network with Docker
+# UNICAS Beacon v2 Network deployment with Docker
 
 This repository serves for deploying both Frontend and Backend with Docker.
 
 ## Deploy
 
-Download the code from this [repository](https://github.com/elixir-europe/beacon-network-docker.git),
+Download the code from this [repository](https://github.com/bsc-health-data/beacon-network-unicas.git),
 
 ```
-git clone https://github.com/elixir-europe/beacon-network-docker.git
-cd beacon-network-docker
+git clone https://github.com/bsc-health-data/beacon-network-unicas.git
+cd beacon-network-unicas
 ```
 
 Please first create a .env file inside the frontend folder so that you can modify some variables. Take into account that the file below will not be copied to GitHub as it contains keys and for security reasons it should ignored: 
