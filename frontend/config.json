@@ -1,0 +1,5 @@
+{
+  "API_URL": "http://unicas.test/beacon-network/v2.0.0",
+  "REDIRECT_URL": "https://unicas.test",
+  "KEYCLOAK_URL": "https://unicas.test"
+}
